@@ -1,17 +1,22 @@
 # Mario Mancebo
 
 ## Quién Soy
+Hola soy Mario Mancebo y tengo 19 años
+Soy un estudiante de 2ºW del instituo IES Severo Ochoa en Elche.
+Me considero una persona muy **competente** y con gran capacidad para hacer frente a los **retos**
+Aprendiendo como manejar distintos lenguajes de programación como por ejemplo *Lenguajes*. 
 
-Soy un estudiante de 2ºW. Aprendiendo como manejar distintos lenguajes de programación como por ejemplo *Lenguajes*. Me considero una persona muy **competente**
+![Foto mia](im.jpg)
 
-![Foto de un mono](images.jpg)
-## Que estoy aprendiendo
-Me gusta programar en Python:
+## Que estoy aprendiendo en 2º de desarrollo de páginas web
+Estoy empezando a programar con Python, en concreto su framework Django
+
+Me gusta programar en Python formularios para hacer log in y log out:
 ```python
-aficiones=["dar clase de interfaces"]
+aficiones=["leer","jugar al pc", "salir de fiesta"]
 ```
 Un comando que no hay que olvidar es `python manage.py runserver`
-. y siempre se me olvida
+. y siempre se me olvida pero es super necesario para poder hacer que el servidor *ejecute* el programa
 
 Otras tecnologías que he aprendido:
 
@@ -22,16 +27,36 @@ Otras tecnologías que he aprendido:
     3. Ficheros
 * HTML Y CSS
     * Html 5 
-* JavaScript
-* Python
+    * CSS
+    * XML
 
+* JavaScript
+    1. Canvas
+* Python
+    1. Django
+* PHP
+
+| Domino mejor | Domino menos
+| ---   | ---
+| SQL   |   CSS
+| Java  |   Django
+| HTML
+| PHP
+
+
+A lo largo de estos dos años he dado cerca de 10 módulos
 Y los módulos que me han gustado han sido:
 
 | Sí | No 
 | --- | ---
 | BD  | Programación
-| Desarrollo | Diseño
+| Desarrollo servidor | Diseño
+| Fol | Lenguajes de marcas
+| Desarrollo web 
 
 ## Dónde encotrarme
-Me puedes encontrar en instagram y twitter[@Mariommc45](http://www.twitter.com/Mariommc45).
-Mi correo es [mariommc454@gmail.com](mailto:mariomcc454@gmail.com)
+Me puedes encontrar en instagram y twitter como  [@Mariommc45] (https://www.twitter.com/Mariommc45).
+
+Mi correo para contactarme es [mariommc454@gmail.com](mailto:mariomcc454@gmail.com).
+
+Y si quieres ver mi currículum [accede](https://mario-mc.github.io/mario-mancebo-curriculum.pdf)
