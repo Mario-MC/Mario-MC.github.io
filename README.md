@@ -6,7 +6,6 @@ Soy un estudiante de 2ºW del instituo IES Severo Ochoa en Elche.
 Me considero una persona muy **competente** y con gran capacidad para hacer frente a los **retos**
 Aprendiendo como manejar distintos lenguajes de programación como por ejemplo *Lenguajes*. 
 
-![Foto mia](im.jpeg)
 
 ## Que estoy aprendiendo en 2º de desarrollo de páginas web
 Estoy empezando a programar con Python, en concreto su framework Django
@@ -54,7 +53,7 @@ Y los módulos que me han gustado han sido:
 | Fol | Lenguajes de marcas
 | Desarrollo web 
 
-## Dónde encotrarme
+## Dónde encontrarme
 Me puedes encontrar en instagram y twitter como  [@Mariommc45](https://www.twitter.com/Mariommc45).
 
 Mi correo para contactarme es [mariommc454@gmail.com](mailto:mariomcc454@gmail.com).
