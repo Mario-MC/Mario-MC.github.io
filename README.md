@@ -6,7 +6,7 @@ Soy un estudiante de 2ºW del instituo IES Severo Ochoa en Elche.
 Me considero una persona muy **competente** y con gran capacidad para hacer frente a los **retos**
 Aprendiendo como manejar distintos lenguajes de programación como por ejemplo *Lenguajes*. 
 
-![Foto mia](im.jpg)
+![Foto mia](im.jpeg)
 
 ## Que estoy aprendiendo en 2º de desarrollo de páginas web
 Estoy empezando a programar con Python, en concreto su framework Django
@@ -18,8 +18,7 @@ aficiones=["leer","jugar al pc", "salir de fiesta"]
 Un comando que no hay que olvidar es `python manage.py runserver`
 . y siempre se me olvida pero es super necesario para poder hacer que el servidor *ejecute* el programa
 
-Otras tecnologías que he aprendido:
-
+Otras tecnologías que he aprendido a lo largo de estos dos años han sido:
 * SQL
 * Java básico
     1. Clases
@@ -29,12 +28,13 @@ Otras tecnologías que he aprendido:
     * Html 5 
     * CSS
     * XML
-
 * JavaScript
     1. Canvas
 * Python
     1. Django
 * PHP
+
+Si hiciera un repaso de las que mejor domino quedaria así:
 
 | Domino mejor | Domino menos
 | ---   | ---
@@ -55,7 +55,7 @@ Y los módulos que me han gustado han sido:
 | Desarrollo web 
 
 ## Dónde encotrarme
-Me puedes encontrar en instagram y twitter como  [@Mariommc45] (https://www.twitter.com/Mariommc45).
+Me puedes encontrar en instagram y twitter como  [@Mariommc45](https://www.twitter.com/Mariommc45).
 
 Mi correo para contactarme es [mariommc454@gmail.com](mailto:mariomcc454@gmail.com).
 
