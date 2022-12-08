@@ -58,4 +58,4 @@ Me puedes encontrar en instagram y twitter como  [@Mariommc45](https://www.twitt
 
 Mi correo para contactarme es [mariommc454@gmail.com](mailto:mariomcc454@gmail.com).
 
-Y si quieres ver mi currículum [accede](https://mario-mc.github.io/mario-mancebo-curriculum.pdf)
+Y si quieres ver mi currículum [pinche aquí](https://mario-mc.github.io/mario-mancebo-curriculum.pdf)
